@@ -72,4 +72,3 @@ skills required for **Data Analyst roles**.
 - Date Functions
 
 
-## 📂 Repository Structure
